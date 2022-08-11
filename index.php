@@ -1,5 +1,4 @@
 <?php
-
 include "Animal.php";
 
 class kucing{
